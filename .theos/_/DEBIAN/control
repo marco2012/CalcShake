@@ -1,0 +1,10 @@
+Package: me.vikings.calcshake
+Name: CalcShake
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Haptic feedback for iOS Calculator
+Maintainer: Marco 
+Author: Marco 
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 40
